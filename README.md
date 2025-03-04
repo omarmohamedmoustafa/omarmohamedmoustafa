@@ -66,8 +66,6 @@ I believe in continuous improvement, and solving problems on **LeetCode** has be
 
 ## [![HackerRank Badge](https://img.shields.io/badge/HackerRank-e3omarola2000-brightgreen)](https://www.hackerrank.com/e3omarola2000)
 
-![HackerRank Stats](https://hrcdn.net/hackerrank/assets/brand/)
-
 ### 🏆 HackerRank Progress
 
 | **Category**    | **Progress** |
