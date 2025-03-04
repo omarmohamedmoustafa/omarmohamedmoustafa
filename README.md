@@ -58,21 +58,27 @@ Feel free to explore my [GitHub Repositories](https://github.com/omarmohamedmous
 
 ---
 
-### 📈 Problem-Solving Progress
+### 📈 Leetcode Progress
 
 I believe in continuous improvement, and solving problems on **LeetCode** has been a great way to enhance my skills. Here's a snapshot of my progress:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/omarmohamedmoustafa93?theme=dark&font=Noto%20Sans&ext=heatmap)
 
-## [![HackerRank Badge](https://img.shields.io/badge/HackerRank-e3omarola2000-brightgreen)](https://www.hackerrank.com/e3omarola2000)
+---
 
 ### 🏆 HackerRank Progress
+
+## [![HackerRank Badge](https://img.shields.io/badge/HackerRank-e3omarola2000-brightgreen)](https://www.hackerrank.com/e3omarola2000)
 
 | **Category**    | **Progress** |
 | --------------- | ------------ |
 | Problem Solving | 3 ⭐         |
 | Python          | 1 ⭐         |
 | C language      | 2 ⭐         |
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmohamedmoustafa&show_icons=true&locale=en" alt="omarmohamedmoustafa" /></p>
 
 ### 🎯 Goals
 
