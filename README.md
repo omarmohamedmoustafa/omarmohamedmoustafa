@@ -54,7 +54,7 @@ I love tackling challenges and solving problems, which is why I actively practic
 
 ### 🚀 Projects & Contributions
 
-Feel free to explore my [GitHub Repositories](https://github.com/omarmohamedmoustafa/) for more!
+Feel free to explore my [GitHub Repositories](https://github.com/omarmohamedmoustafa?tab=repositories) for more!
 
 ---
 
