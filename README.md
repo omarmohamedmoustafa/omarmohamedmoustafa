@@ -64,7 +64,17 @@ I believe in continuous improvement, and solving problems on **LeetCode** has be
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/omarmohamedmoustafa93?theme=dark&font=Noto%20Sans&ext=heatmap)
 
----
+## [![HackerRank Badge](https://img.shields.io/badge/HackerRank-e3omarola2000-brightgreen)](https://www.hackerrank.com/e3omarola2000)
+
+![HackerRank Stats](https://hrcdn.net/hackerrank/assets/brand/)
+
+### 🏆 HackerRank Progress
+
+| **Category**    | **Progress** |
+| --------------- | ------------ |
+| Problem Solving | 3 ⭐         |
+| Python          | 1 ⭐         |
+| C language      | 2 ⭐         |
 
 ### 🎯 Goals
 
