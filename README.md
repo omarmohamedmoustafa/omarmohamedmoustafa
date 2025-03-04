@@ -80,6 +80,7 @@ I believe in continuous improvement, and solving problems on **LeetCode** has be
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarmohamedmoustafa&show_icons=true&locale=en" alt="omarmohamedmoustafa" /></p>
 
+---
 ### 🎯 Goals
 
 - Master **Android Automotive** development.
